@@ -1,11 +1,12 @@
-This is my First Git Demo...!!!
-Welcome to Git..!!!
+//This is my First Git Demo...!!!
+//Welcome to Git..!!!
 
 class MyClass{
 
-public static void main(String args){
+	public static void main(String args){
 
-sysout("Hello Git..!!!");
-}
+		System.out.println("Hello Git..!!!");
+
+	}
 
 }
