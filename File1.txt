@@ -5,7 +5,9 @@ class MyClass{
 
 	public static void main(String args){
 
-		System.out.println("Hello Git..!!!"+"My Change is more better...!!!");
+
+		System.out.println("Hello Git..!!!"+"My Change is more better after conflict resolve...!!!");
+
 
 	}
 
