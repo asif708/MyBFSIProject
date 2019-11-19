@@ -3,14 +3,14 @@
 
 class MyClass{
 
-	myMethod(){
+	static void myMethod(){
 	sysout("MyMethod");
 	}
 
 
 	public static void main(String args){
-
-
+		
+		myMethod();
 		System.out.println("Hello Git..!!!"+"My Change is more better after conflict resolve...!!!");
 	
 		
